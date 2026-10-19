@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9517cb35-9fac-406e-835f-92a6bd3cb28b" name="Changes" comment="star" />
+    <list default="true" id="9517cb35-9fac-406e-835f-92a6bd3cb28b" name="Changes" comment="star">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/block/ModBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/item/ModItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cchainmail/textures/item/chainmail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/craftable_chainmail.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/craftable_chainmail.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/TemplateMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/CraftableChainmailMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/TemplateModClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/CraftableChainmailModClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/block/ModBlocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/creativetab/ModCreativeTabs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/datagen/ModBlockLootTableProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/datagen/ModBlockLootTableProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/datagen/ModBlockTagProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/datagen/ModBlockTagProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/datagen/ModDamageTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/datagen/ModDamageTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/datagen/ModDataGenerators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/datagen/ModDataGenerators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/datagen/ModDataPackProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/datagen/ModDataPackProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/datagen/ModItemTagProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/datagen/ModItemTagProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/datagen/ModModelProviders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/datagen/ModModelProviders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/datagen/ModRecipeProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/datagen/ModRecipeProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/effect/ExampleEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/effect/ModEffects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/event/ModEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/food/ModFoodProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/item/ModItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/potion/ModPotion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/tags/ModTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cchainmail/cchainmailmod/tags/ModTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/worldgen/ModBiomeModifiers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/worldgen/ModConfiguredFeatures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/worldgen/ModOrePlacements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/template/templatemod/worldgen/ModPlacedFeatures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/templatemod/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/cchainmail/lang/en_us.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/templatemod/textures/block/test_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/templatemod/textures/item/test_item.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/templatemod/textures/mob_effect/test_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templatemod.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cchainmail.mixins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/templates/META-INF/neoforge.mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/templates/META-INF/neoforge.mods.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +67,17 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="craftable_chainmail" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="craftable_chainmail" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="craftable_chainmail" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -35,7 +85,19 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -49,7 +111,7 @@
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:Errorsprngtrap/craftable_chainmail.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Errorsprngtrap/craftable_chainmail.git&quot;,
     &quot;accountId&quot;: &quot;4f1a0210-693e-43c2-bd8b-2023344d0984&quot;
   }
 }</component>
@@ -60,25 +122,34 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "J:/minecraft modding/craftable_chainmail",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.craftable_chainmail [:net.neoforged.devlaunch.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.craftable_chainmail [build].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;26.1.2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;J:/Code/minecraft modding/26.X/craftable_chainmail&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Client">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\minecraft modding\craftable_chainmail\src\main\resources\assets\templatemod\textures\item" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.craftable_chainmail [build]">
     <configuration name="Client" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
       <module name="craftable_chainmail.main" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;@J:\\minecraft modding\\craftable_chainmail\\build\\moddev\\clientRunProgramArgs.txt&quot;" />
-      <option name="VM_PARAMETERS" value="&quot;@J:\\minecraft modding\\craftable_chainmail\\build\\moddev\\clientRunVmArgs.txt&quot; &quot;-Dfml.modFolders=templatemod%%J:\\minecraft modding\\craftable_chainmail\\build\\classes\\java\\main;templatemod%%J:\\minecraft modding\\craftable_chainmail\\build\\resources\\main&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;@J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\moddev\\clientRunProgramArgs.txt&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;@J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\moddev\\clientRunVmArgs.txt&quot; &quot;-Dfml.modFolders=cchainmail%%J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\classes\\java\\main;cchainmail%%J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\resources\\main&quot;" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,8 +158,8 @@
     <configuration name="Data" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
       <module name="craftable_chainmail.main" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;@J:\\minecraft modding\\craftable_chainmail\\build\\moddev\\dataRunProgramArgs.txt&quot;" />
-      <option name="VM_PARAMETERS" value="&quot;@J:\\minecraft modding\\craftable_chainmail\\build\\moddev\\dataRunVmArgs.txt&quot; &quot;-Dfml.modFolders=templatemod%%J:\\minecraft modding\\craftable_chainmail\\build\\classes\\java\\main;templatemod%%J:\\minecraft modding\\craftable_chainmail\\build\\resources\\main&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;@J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\moddev\\dataRunProgramArgs.txt&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;@J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\moddev\\dataRunVmArgs.txt&quot; &quot;-Dfml.modFolders=cchainmail%%J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\classes\\java\\main;cchainmail%%J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\resources\\main&quot;" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,8 +168,8 @@
     <configuration name="GameTestServer" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
       <module name="craftable_chainmail.main" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;@J:\\minecraft modding\\craftable_chainmail\\build\\moddev\\gameTestServerRunProgramArgs.txt&quot;" />
-      <option name="VM_PARAMETERS" value="&quot;@J:\\minecraft modding\\craftable_chainmail\\build\\moddev\\gameTestServerRunVmArgs.txt&quot; &quot;-Dfml.modFolders=templatemod%%J:\\minecraft modding\\craftable_chainmail\\build\\classes\\java\\main;templatemod%%J:\\minecraft modding\\craftable_chainmail\\build\\resources\\main&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;@J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\moddev\\gameTestServerRunProgramArgs.txt&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;@J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\moddev\\gameTestServerRunVmArgs.txt&quot; &quot;-Dfml.modFolders=cchainmail%%J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\classes\\java\\main;cchainmail%%J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\resources\\main&quot;" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,13 +178,43 @@
     <configuration name="Server" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
       <module name="craftable_chainmail.main" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;@J:\\minecraft modding\\craftable_chainmail\\build\\moddev\\serverRunProgramArgs.txt&quot;" />
-      <option name="VM_PARAMETERS" value="&quot;@J:\\minecraft modding\\craftable_chainmail\\build\\moddev\\serverRunVmArgs.txt&quot; &quot;-Dfml.modFolders=templatemod%%J:\\minecraft modding\\craftable_chainmail\\build\\classes\\java\\main;templatemod%%J:\\minecraft modding\\craftable_chainmail\\build\\resources\\main&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;@J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\moddev\\serverRunProgramArgs.txt&quot;" />
+      <option name="VM_PARAMETERS" value="&quot;@J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\moddev\\serverRunVmArgs.txt&quot; &quot;-Dfml.modFolders=cchainmail%%J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\classes\\java\\main;cchainmail%%J:\\Code\\minecraft modding\\26.X\\craftable_chainmail\\build\\resources\\main&quot;" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="craftable_chainmail [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.craftable_chainmail [build]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
